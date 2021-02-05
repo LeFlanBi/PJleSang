@@ -46,7 +46,6 @@ class Clock extends React.Component {
     );
   }
 }
-
 class Incrementer extends React.Component {
   constructor(props) {
     super(props);
